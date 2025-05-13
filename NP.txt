@@ -1,0 +1,5 @@
+{
+    "Key": "2.0",
+    "Allowed":"False",
+    "Message":"HEHE Ask your kuya whats the password :D"
+}
