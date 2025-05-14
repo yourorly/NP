@@ -1,5 +1,5 @@
 {
-    "Key": "maligomunakayo",
+    "Key": "uKalxHUBst",
     "Allowed":"true",
     "Message":"HEHE Ask your kuya whats the password :D"
 }
